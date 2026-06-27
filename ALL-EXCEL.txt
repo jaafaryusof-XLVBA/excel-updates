@@ -1,4 +1,4 @@
 MAME_Game_N_Watch_Video_Options_Customization_ES-DE=1.0
 MAME_Game_N_Watch_Video_Options_Customization_RetroBat=1.0
 RetroBat_PS3_HDD_N_Disc_m3u_Generator_N_XML_editor=2.0
-Tetris_in_Excel_with_Ghost=2.0
+Tetris_in_Excel_with_Ghost=2.1
