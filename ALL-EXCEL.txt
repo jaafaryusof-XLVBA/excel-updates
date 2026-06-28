@@ -2,6 +2,6 @@ MAME_Game_N_Watch_Video_Options_Customization_ES-DE=1.0
 MAME_Game_N_Watch_Video_Options_Customization_RetroBat=1.0
 RetroArch_Libretro_Thumbnails_Downloader_with_Rom_Renamer=3.2
 RetroBat_PS3_HDD_N_Disc_m3u_Generator_N_XML_editor=2.0
-RetroArch_Thumbnails_Downloader_with_Rom_Renamer_Selenium=3.3
+RetroArch_Thumbnails_Downloader_Selenium_Basic=3.3
 Tetris_in_Excel_with_Ghost=2.1
 Tetris_in_Excel_PATTERN=1.0
