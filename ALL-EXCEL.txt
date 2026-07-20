@@ -6,4 +6,4 @@ RetroArch_Thumbnails_Downloader_Selenium_Basic=3.3
 Selenium_Basic_XPath_Generator=1.1
 Tetris_in_Excel_with_Ghost=2.1
 Tetris_in_Excel_PATTERN=1.0
-Thumbnails_LibRetro_Downloader_Selenium=2.1
+Thumbnails_LibRetro_Downloader_Selenium=2.2
