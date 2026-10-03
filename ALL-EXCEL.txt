@@ -1,4 +1,4 @@
-ES-DE_PS3_Alternative_Emulators_Manager=1.0
+ES-DE_PS3_Alternative_Emulators_Manager=1.1
 MAME_Game_N_Watch_Video_Options_Customization_ES-DE=1.0
 MAME_Game_N_Watch_Video_Options_Customization_RetroBat=1.0
 RetroArch_Libretro_Thumbnails_Downloader_with_Rom_Renamer=3.2
