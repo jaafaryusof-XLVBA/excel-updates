@@ -10,3 +10,4 @@ SeleniumVBA_-_XPath_Generator=2.0
 Tetris_in_Excel_with_Ghost=2.1
 Tetris_in_Excel_PATTERN=1.0
 Thumbnails_LibRetro_Downloader_Selenium=2.4.3
+Thumbnails_LibRetro_Downloader_SeleniumVBA=3.0
